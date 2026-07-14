@@ -39,9 +39,8 @@ Because the repository is still being finalized, this README does not claim spec
 
 If you use LP-Eval in your research, please cite the paper.
 
-[bibtext]
 
-The bibliographic entry above is intentionally conservative and avoids adding publication metadata that is not yet confirmed in this repository.
+
 
 
 
